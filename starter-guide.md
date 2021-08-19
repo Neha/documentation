@@ -8,7 +8,7 @@ AS PER YOUR NEED.
 - [Tech Stack]()
 - [Machine setup]()
 - [Important apps]()
-- [Walkthrough of product]()
+- [Walkthrough of product/project]()
 - [Walkthrough of code]()
 - [Way of working]()
-- [Scrum master sheet]()`
+- [Add your content here...]()

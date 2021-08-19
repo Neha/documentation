@@ -23,7 +23,4 @@ Version: V 0.0.0
 
 [ ] no console.log or alert
 
-.
-.
-.
-.
+[ ] add your content here...
